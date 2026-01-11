@@ -23,10 +23,8 @@ A Chrome Extension that analyzes a resume PDF and calculates its match percentag
 5. Click **Load Unpacked**
 6. Select the project folder
 
-## Screenshots
-(Add screenshots here)
-
 ## Future Improvements
 - ATS scoring
 - Skill extraction
 - AI-based matching
+
